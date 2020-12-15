@@ -10,4 +10,4 @@ Send me a message in Discord.
 Discord : @MR.MSA#3736
 
 
-Deomo : https://mr-msa.xyz/tools/tools/msa_pass
+Demo : https://mr-msa.xyz/tools/tools/msa_pass
